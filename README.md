@@ -3,6 +3,8 @@ This recommendation system seeks to navigate the complexities of medication reco
 considering factors such as active ingredients, health conditions, potential interactions, and user preferences. The ultimate goal is to contribute to the advancement of health-focused recommendation systems, offering a reliable and personalized tool that enhances the user experience within the online health application. 
 
 Software Requirements 
+
+
 Programming Language: 
 Python: Version 3.x (latest stable release) 
 Machine Learning Framework: 
