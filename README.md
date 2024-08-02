@@ -22,6 +22,8 @@ numpy: A fundamental package for scientific computing.
 matplotlib: A 2D plotting library for visualization. 
 
 Hardware Requirements 
+
+
 CPU (Central Processing Unit): 
 CPUs with sufficient processing power to handle data preprocessing, recommendation model 
 training, and inference tasks. 
